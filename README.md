@@ -22,6 +22,9 @@ To design an all-in-one pharmacy app that simplifies the healthcare experience b
 - 👤 User Persona
   We created a user persona representing our target audience to guide design decisions and ensure a user-centered approach.
 
+- 🤝 User Meetings / Interviews
+  We conducted meetings and interviews with potential users to better understand their needs, expectations, and challenges when using pharmacy and healthcare services.
+
 🎨 Design
 - 📱 Main Page Layout
   We designed the main interface based on research insights, focusing on simplicity, accessibility, and a smooth user flow.
